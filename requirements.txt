@@ -9,7 +9,7 @@ beautifulsoup4==4.12.2
     #   -r requirements.in
     #   google
     #   proxy-db
-certifi==2023.7.22
+certifi==2024.7.4
     # via requests
 charset-normalizer==3.2.0
     # via requests
@@ -25,11 +25,11 @@ greenlet==2.0.2
     # via sqlalchemy
 humanize==4.7.0
     # via -r requirements.in
-idna==3.4
+idna==3.7
     # via requests
 proxy-db==0.3.1
     # via -r requirements.in
-requests==2.31.0
+requests==2.32.4
     # via
     #   -r requirements.in
     #   proxy-db
@@ -46,5 +46,5 @@ sqlalchemy==2.0.19
     # via proxy-db
 typing-extensions==4.7.1
     # via sqlalchemy
-urllib3==2.0.4
+urllib3==2.2.2
     # via requests
